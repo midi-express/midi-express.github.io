@@ -1,0 +1,30 @@
+#page-top nav div div.navbar-header a div img{
+  height: 20px;
+}
+
+
+img.mobile-scenario{
+    border: 0;
+    width: 300px;
+}
+
+div.carousel{
+    background-color: white;
+
+}
+
+.carousel-caption{
+    color: black;
+    bottom: -10px;
+}
+
+@media screen and (min-width: 768px){
+    .carousel-indicators {
+        bottom: -50px;
+    }
+}
+
+.promesses p{
+    text-align: justify;
+}
+
